@@ -1,0 +1,1 @@
+// Mock content of app.js
